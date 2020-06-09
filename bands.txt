@@ -1,0 +1,10 @@
+Arch_Enemy 9,3
+Blink_182 9,1
+Black_Sabbat 9,0
+Metallica 9,1
+Red_Hot_Chilli_Peppers 9,0
+Britney_Spears 8,5
+System_Of_A_Down 8,5
+Avenged_Sevenfold 8,4
+Sepultura 8,4
+Justin_Bieber 0,2
